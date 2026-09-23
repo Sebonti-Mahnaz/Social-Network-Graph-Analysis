@@ -1,0 +1,28 @@
+# Raw network data
+higgsRT.txt
+higgsRP.txt
+higgsMT.txt
+higgsFL.txt
+higgs_RT.txt
+higgs_RP.txt
+higgs_MT.txt
+higgs_FL.txt
+
+# Generated outputs
+out.csv
+out.zip
+*.csv
+*.zip
+
+# Thesis/research documents
+*.doc
+*.docx
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
